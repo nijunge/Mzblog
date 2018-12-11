@@ -1,0 +1,528 @@
+*** Starting uWSGI 2.0.17.1 (64bit) on [Fri Dec  7 09:59:54 2018] ***
+compiled with version: 5.4.0 20160609 on 06 December 2018 05:49:17
+os: Linux-4.15.0-42-generic #45~16.04.1-Ubuntu SMP Mon Nov 19 13:02:27 UTC 2018
+nodename: lijun
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/lijun/桌面/1807-project/MzBlog
+writing pidfile to uwsgi.pid
+detected binary path: /home/lijun/.virtualenvs/1807_blog/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/lijun/桌面/1807-project/MzBlog
+your processes number limit is 15547
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:36573 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Nov 12 2018, 13:43:14)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/lijun/桌面/1807-project/MzBlog
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ImportError: No module named 'encodings'
+
+Current thread 0x00007f1216f6c700 (most recent call first):
+*** Starting uWSGI 2.0.17.1 (64bit) on [Fri Dec  7 10:00:51 2018] ***
+compiled with version: 5.4.0 20160609 on 06 December 2018 05:49:17
+os: Linux-4.15.0-42-generic #45~16.04.1-Ubuntu SMP Mon Nov 19 13:02:27 UTC 2018
+nodename: lijun
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/lijun/桌面/1807-project/MzBlog
+writing pidfile to uwsgi.pid
+detected binary path: /home/lijun/.virtualenvs/1807_blog/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/lijun/桌面/1807-project/MzBlog
+your processes number limit is 15547
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:36551 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Nov 12 2018, 13:43:14)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/lijun/桌面/1807-project/MzBlog
+Fatal Python error: Py_Initialize: Unable to get the locale encoding
+ImportError: No module named 'encodings'
+
+Current thread 0x00007f765ed0f700 (most recent call first):
+*** Starting uWSGI 2.0.17.1 (64bit) on [Fri Dec  7 10:03:03 2018] ***
+compiled with version: 5.4.0 20160609 on 06 December 2018 05:49:17
+os: Linux-4.15.0-42-generic #45~16.04.1-Ubuntu SMP Mon Nov 19 13:02:27 UTC 2018
+nodename: lijun
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/lijun/桌面/1807-project/MzBlog
+writing pidfile to uwsgi.pid
+detected binary path: /home/lijun/.virtualenvs/1807_blog/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/lijun/桌面/1807-project/MzBlog
+your processes number limit is 15547
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:34481 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Nov 12 2018, 13:43:14)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/lijun/.virtualenvs/1807_blog
+Python main interpreter initialized at 0x14072e0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x14072e0 pid: 15827 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 15827)
+spawned uWSGI worker 1 (pid: 15830, cores: 2)
+spawned uWSGI worker 2 (pid: 15831, cores: 2)
+spawned uWSGI worker 3 (pid: 15832, cores: 2)
+spawned uWSGI worker 4 (pid: 15833, cores: 2)
+spawned uWSGI http 1 (pid: 15834)
+Fri Dec  7 10:29:56 2018 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Fri Dec  7 10:29:56 2018 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+*** Starting uWSGI 2.0.17.1 (64bit) on [Fri Dec  7 10:30:16 2018] ***
+compiled with version: 5.4.0 20160609 on 06 December 2018 05:49:17
+os: Linux-4.15.0-42-generic #45~16.04.1-Ubuntu SMP Mon Nov 19 13:02:27 UTC 2018
+nodename: lijun
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/lijun/桌面/1807-project/MzBlog
+writing pidfile to uwsgi.pid
+detected binary path: /home/lijun/.virtualenvs/1807_blog/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/lijun/桌面/1807-project/MzBlog
+your processes number limit is 15547
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on 127.0.0.1:8000 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:35801 (port auto-assigned) fd 3
+Python version: 3.5.2 (default, Nov 12 2018, 13:43:14)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/lijun/.virtualenvs/1807_blog
+Python main interpreter initialized at 0x24032e0
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x24032e0 pid: 17170 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 17170)
+spawned uWSGI worker 1 (pid: 17172, cores: 2)
+spawned uWSGI worker 2 (pid: 17173, cores: 2)
+spawned uWSGI worker 3 (pid: 17174, cores: 2)
+spawned uWSGI worker 4 (pid: 17175, cores: 2)
+spawned uWSGI http 1 (pid: 17176)
+[pid: 17172|app: 0|req: 1/1] 127.0.0.1 () {38 vars in 826 bytes} [Fri Dec  7 10:30:53 2018] GET /81 => generated 5999 bytes in 126 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+Fri Dec  7 10:35:07 2018 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+*** Starting uWSGI 2.0.17.1 (64bit) on [Fri Dec  7 10:35:15 2018] ***
+compiled with version: 5.4.0 20160609 on 06 December 2018 05:49:17
+os: Linux-4.15.0-42-generic #45~16.04.1-Ubuntu SMP Mon Nov 19 13:02:27 UTC 2018
+nodename: lijun
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/lijun/桌面/1807-project/MzBlog
+writing pidfile to uwsgi.pid
+detected binary path: /home/lijun/.virtualenvs/1807_blog/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/lijun/桌面/1807-project/MzBlog
+your processes number limit is 15547
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8000 fd 3
+Python version: 3.5.2 (default, Nov 12 2018, 13:43:14)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/lijun/.virtualenvs/1807_blog
+Python main interpreter initialized at 0xba8200
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0xba8200 pid: 17636 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 17636)
+spawned uWSGI worker 1 (pid: 17639, cores: 2)
+spawned uWSGI worker 2 (pid: 17640, cores: 2)
+spawned uWSGI worker 3 (pid: 17641, cores: 2)
+spawned uWSGI worker 4 (pid: 17642, cores: 2)
+[pid: 17642|app: 0|req: 1/1] 127.0.0.1 () {42 vars in 886 bytes} [Fri Dec  7 10:35:32 2018] GET / => generated 19744 bytes in 252 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 0)
+Fri Dec  7 10:36:24 2018 - uWSGI worker 4 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Fri Dec  7 10:36:24 2018 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+*** Starting uWSGI 2.0.17.1 (64bit) on [Fri Dec  7 10:36:26 2018] ***
+compiled with version: 5.4.0 20160609 on 06 December 2018 05:49:17
+os: Linux-4.15.0-42-generic #45~16.04.1-Ubuntu SMP Mon Nov 19 13:02:27 UTC 2018
+nodename: lijun
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/lijun/桌面/1807-project/MzBlog
+writing pidfile to uwsgi.pid
+detected binary path: /home/lijun/.virtualenvs/1807_blog/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/lijun/桌面/1807-project/MzBlog
+your processes number limit is 15547
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8000 fd 3
+Python version: 3.5.2 (default, Nov 12 2018, 13:43:14)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/lijun/.virtualenvs/1807_blog
+Python main interpreter initialized at 0x1820200
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x1820200 pid: 17780 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 17780)
+spawned uWSGI worker 1 (pid: 17784, cores: 2)
+spawned uWSGI worker 2 (pid: 17785, cores: 2)
+spawned uWSGI worker 3 (pid: 17786, cores: 2)
+spawned uWSGI worker 4 (pid: 17787, cores: 2)
+Fri Dec  7 10:36:28 2018 - uWSGI worker 1 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+Fri Dec  7 10:36:28 2018 - uWSGI worker 3 screams: UAAAAAAH my master disconnected: i will kill myself !!!
+*** Starting uWSGI 2.0.17.1 (64bit) on [Fri Dec  7 10:36:31 2018] ***
+compiled with version: 5.4.0 20160609 on 06 December 2018 05:49:17
+os: Linux-4.15.0-42-generic #45~16.04.1-Ubuntu SMP Mon Nov 19 13:02:27 UTC 2018
+nodename: lijun
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/lijun/桌面/1807-project/MzBlog
+writing pidfile to uwsgi.pid
+detected binary path: /home/lijun/.virtualenvs/1807_blog/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/lijun/桌面/1807-project/MzBlog
+your processes number limit is 15547
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8000 fd 3
+Python version: 3.5.2 (default, Nov 12 2018, 13:43:14)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/lijun/.virtualenvs/1807_blog
+Python main interpreter initialized at 0xf82200
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0xf82200 pid: 17807 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 17807)
+spawned uWSGI worker 1 (pid: 17810, cores: 2)
+spawned uWSGI worker 2 (pid: 17811, cores: 2)
+spawned uWSGI worker 3 (pid: 17812, cores: 2)
+spawned uWSGI worker 4 (pid: 17813, cores: 2)
+[pid: 17813|app: 0|req: 1/1] 127.0.0.1 () {44 vars in 917 bytes} [Fri Dec  7 10:36:38 2018] GET / => generated 19744 bytes in 224 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 0)
+[pid: 17813|app: 0|req: 2/2] 127.0.0.1 () {44 vars in 912 bytes} [Fri Dec  7 10:40:53 2018] GET / => generated 19744 bytes in 61 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 1/3] 127.0.0.1 () {44 vars in 912 bytes} [Fri Dec  7 10:40:55 2018] GET / => generated 19744 bytes in 230 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 2/4] 127.0.0.1 () {44 vars in 912 bytes} [Fri Dec  7 10:44:53 2018] GET / => generated 19744 bytes in 52 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 3/5] 127.0.0.1 () {44 vars in 912 bytes} [Fri Dec  7 10:44:54 2018] GET / => generated 19744 bytes in 60 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 4/6] 127.0.0.1 () {42 vars in 881 bytes} [Fri Dec  7 10:45:03 2018] GET / => generated 19744 bytes in 66 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 1)
+[pid: 17812|app: 0|req: 1/7] 127.0.0.1 () {44 vars in 912 bytes} [Fri Dec  7 10:46:08 2018] GET / => generated 19744 bytes in 223 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 0)
+[pid: 17812|app: 0|req: 2/8] 127.0.0.1 () {42 vars in 891 bytes} [Fri Dec  7 10:49:40 2018] GET /admin => generated 0 bytes in 1 msecs (HTTP/1.1 301) 3 headers in 112 bytes (1 switches on core 1)
+[pid: 17813|app: 0|req: 3/9] 127.0.0.1 () {42 vars in 893 bytes} [Fri Dec  7 10:49:40 2018] GET /admin/ => generated 8068 bytes in 84 msecs (HTTP/1.1 200) 6 headers in 227 bytes (1 switches on core 0)
+[pid: 17813|app: 0|req: 4/10] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 10:49:40 2018] GET /favicon.ico => generated 5999 bytes in 8 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 5/11] 127.0.0.1 () {44 vars in 959 bytes} [Fri Dec  7 10:49:46 2018] GET /admin/blog/banner/ => generated 4453 bytes in 121 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 6/12] 127.0.0.1 () {42 vars in 866 bytes} [Fri Dec  7 10:49:47 2018] GET /admin/jsi18n/ => generated 7682 bytes in 8 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 1/13] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 10:49:47 2018] GET /favicon.ico => generated 5999 bytes in 139 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 2/14] 127.0.0.1 () {48 vars in 1088 bytes} [Fri Dec  7 10:49:50 2018] POST /admin/blog/banner/ => generated 0 bytes in 17 msecs (HTTP/1.1 302) 8 headers in 419 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 7/15] 127.0.0.1 () {44 vars in 1101 bytes} [Fri Dec  7 10:49:50 2018] GET /admin/blog/banner/ => generated 4560 bytes in 32 msecs (HTTP/1.1 200) 8 headers in 465 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 8/16] 127.0.0.1 () {42 vars in 866 bytes} [Fri Dec  7 10:49:50 2018] GET /admin/jsi18n/ => generated 7682 bytes in 9 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 3/17] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 10:49:50 2018] GET /favicon.ico => generated 5999 bytes in 6 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 4/18] 127.0.0.1 () {48 vars in 1088 bytes} [Fri Dec  7 10:49:54 2018] POST /admin/blog/banner/ => generated 3309 bytes in 154 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 9/19] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 10:49:55 2018] GET /favicon.ico => generated 5999 bytes in 8 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 10/20] 127.0.0.1 () {48 vars in 1088 bytes} [Fri Dec  7 10:49:56 2018] POST /admin/blog/banner/ => generated 0 bytes in 48 msecs (HTTP/1.1 302) 8 headers in 451 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 11/21] 127.0.0.1 () {44 vars in 1133 bytes} [Fri Dec  7 10:49:56 2018] GET /admin/blog/banner/ => generated 3189 bytes in 24 msecs (HTTP/1.1 200) 8 headers in 465 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 12/22] 127.0.0.1 () {42 vars in 866 bytes} [Fri Dec  7 10:49:56 2018] GET /admin/jsi18n/ => generated 7682 bytes in 6 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 5/23] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 10:49:56 2018] GET /favicon.ico => generated 5999 bytes in 7 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 6/24] 127.0.0.1 () {44 vars in 979 bytes} [Fri Dec  7 10:49:57 2018] GET /admin/blog/banner/add/ => generated 6053 bytes in 67 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 13/25] 127.0.0.1 () {42 vars in 870 bytes} [Fri Dec  7 10:49:58 2018] GET /admin/jsi18n/ => generated 7682 bytes in 10 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 14/26] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 10:49:58 2018] GET /favicon.ico => generated 5999 bytes in 8 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 7/27] 127.0.0.1 () {48 vars in 1212 bytes} [Fri Dec  7 10:50:19 2018] POST /admin/blog/banner/add/ => generated 0 bytes in 35 msecs (HTTP/1.1 302) 8 headers in 636 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 8/28] 127.0.0.1 () {44 vars in 1326 bytes} [Fri Dec  7 10:50:19 2018] GET /admin/blog/banner/add/ => generated 6273 bytes in 39 msecs (HTTP/1.1 200) 8 headers in 465 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 15/29] 127.0.0.1 () {42 vars in 870 bytes} [Fri Dec  7 10:50:19 2018] GET /admin/jsi18n/ => generated 7682 bytes in 10 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 16/30] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 10:50:19 2018] GET /favicon.ico => generated 5999 bytes in 6 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 9/31] 127.0.0.1 () {48 vars in 1206 bytes} [Fri Dec  7 10:50:34 2018] POST /admin/blog/banner/add/ => generated 0 bytes in 26 msecs (HTTP/1.1 302) 8 headers in 512 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 10/32] 127.0.0.1 () {44 vars in 1198 bytes} [Fri Dec  7 10:50:34 2018] GET /admin/blog/banner/ => generated 4595 bytes in 73 msecs (HTTP/1.1 200) 8 headers in 465 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 17/33] 127.0.0.1 () {42 vars in 866 bytes} [Fri Dec  7 10:50:35 2018] GET /admin/jsi18n/ => generated 7682 bytes in 8 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 18/34] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 10:50:35 2018] GET /favicon.ico => generated 5999 bytes in 10 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 11/35] 127.0.0.1 () {46 vars in 1006 bytes} [Fri Dec  7 10:50:37 2018] GET /admin/blog/banner/ => generated 4427 bytes in 21 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 12/36] 127.0.0.1 () {44 vars in 897 bytes} [Fri Dec  7 10:50:37 2018] GET /admin/jsi18n/ => generated 7682 bytes in 12 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 19/37] 127.0.0.1 () {42 vars in 899 bytes} [Fri Dec  7 10:50:37 2018] GET /favicon.ico => generated 5999 bytes in 5 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 20/38] 127.0.0.1 () {42 vars in 891 bytes} [Fri Dec  7 10:50:42 2018] GET /index => generated 0 bytes in 0 msecs (HTTP/1.1 301) 3 headers in 112 bytes (1 switches on core 1)
+[pid: 17813|app: 0|req: 5/39] 127.0.0.1 () {42 vars in 893 bytes} [Fri Dec  7 10:50:42 2018] GET /index/ => generated 19699 bytes in 66 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 21/40] 127.0.0.1 () {42 vars in 893 bytes} [Fri Dec  7 11:08:31 2018] GET /admin/ => generated 7955 bytes in 182 msecs (HTTP/1.1 200) 6 headers in 227 bytes (1 switches on core 1)
+[pid: 17813|app: 0|req: 6/41] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:08:31 2018] GET /favicon.ico => generated 5999 bytes in 7 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 22/42] 127.0.0.1 () {44 vars in 959 bytes} [Fri Dec  7 11:08:34 2018] GET /admin/blog/banner/ => generated 4427 bytes in 31 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 23/43] 127.0.0.1 () {42 vars in 866 bytes} [Fri Dec  7 11:08:34 2018] GET /admin/jsi18n/ => generated 7682 bytes in 13 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 13/44] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:08:34 2018] GET /favicon.ico => generated 5999 bytes in 10 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 14/45] 127.0.0.1 () {48 vars in 1088 bytes} [Fri Dec  7 11:08:39 2018] POST /admin/blog/banner/ => generated 3145 bytes in 24 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 24/46] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:08:39 2018] GET /favicon.ico => generated 5999 bytes in 7 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 25/47] 127.0.0.1 () {48 vars in 1088 bytes} [Fri Dec  7 11:08:40 2018] POST /admin/blog/banner/ => generated 0 bytes in 32 msecs (HTTP/1.1 302) 8 headers in 451 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 26/48] 127.0.0.1 () {44 vars in 1133 bytes} [Fri Dec  7 11:08:40 2018] GET /admin/blog/banner/ => generated 4330 bytes in 33 msecs (HTTP/1.1 200) 8 headers in 465 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 27/49] 127.0.0.1 () {42 vars in 866 bytes} [Fri Dec  7 11:08:41 2018] GET /admin/jsi18n/ => generated 7682 bytes in 6 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 15/50] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:08:41 2018] GET /favicon.ico => generated 5999 bytes in 6 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 16/51] 127.0.0.1 () {44 vars in 979 bytes} [Fri Dec  7 11:08:41 2018] GET /admin/blog/banner/add/ => generated 6053 bytes in 47 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 28/52] 127.0.0.1 () {42 vars in 870 bytes} [Fri Dec  7 11:08:42 2018] GET /admin/jsi18n/ => generated 7682 bytes in 6 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 29/53] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:08:42 2018] GET /favicon.ico => generated 5999 bytes in 9 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 17/54] 127.0.0.1 () {48 vars in 1208 bytes} [Fri Dec  7 11:09:02 2018] POST /admin/blog/banner/add/ => generated 0 bytes in 41 msecs (HTTP/1.1 302) 8 headers in 518 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 18/55] 127.0.0.1 () {44 vars in 1204 bytes} [Fri Dec  7 11:09:02 2018] GET /admin/blog/banner/ => generated 4599 bytes in 29 msecs (HTTP/1.1 200) 8 headers in 465 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 30/56] 127.0.0.1 () {42 vars in 866 bytes} [Fri Dec  7 11:09:02 2018] GET /admin/jsi18n/ => generated 7682 bytes in 8 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 31/57] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:09:02 2018] GET /favicon.ico => generated 5999 bytes in 6 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 19/58] 127.0.0.1 () {42 vars in 893 bytes} [Fri Dec  7 11:09:07 2018] GET /index/ => generated 19695 bytes in 81 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 20/59] 127.0.0.1 () {44 vars in 924 bytes} [Fri Dec  7 11:11:06 2018] GET /index/ => generated 19695 bytes in 78 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 32/60] 127.0.0.1 () {44 vars in 924 bytes} [Fri Dec  7 11:11:11 2018] GET /index/ => generated 19695 bytes in 68 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 33/61] 127.0.0.1 () {42 vars in 893 bytes} [Fri Dec  7 11:11:19 2018] GET /admin/ => generated 7875 bytes in 42 msecs (HTTP/1.1 200) 6 headers in 227 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 34/62] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:11:19 2018] GET /favicon.ico => generated 5999 bytes in 6 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 21/63] 127.0.0.1 () {44 vars in 959 bytes} [Fri Dec  7 11:11:24 2018] GET /admin/blog/banner/ => generated 4429 bytes in 22 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 35/64] 127.0.0.1 () {42 vars in 866 bytes} [Fri Dec  7 11:11:24 2018] GET /admin/jsi18n/ => generated 7682 bytes in 8 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 22/65] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:11:24 2018] GET /favicon.ico => generated 5999 bytes in 6 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 36/66] 127.0.0.1 () {44 vars in 989 bytes} [Fri Dec  7 11:11:27 2018] GET /admin/blog/banner/5/change/ => generated 6424 bytes in 74 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 37/67] 127.0.0.1 () {42 vars in 875 bytes} [Fri Dec  7 11:11:27 2018] GET /admin/jsi18n/ => generated 7682 bytes in 9 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 23/68] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:11:27 2018] GET /favicon.ico => generated 5999 bytes in 6 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 24/69] 127.0.0.1 () {48 vars in 1221 bytes} [Fri Dec  7 11:11:43 2018] POST /admin/blog/banner/5/change/ => generated 0 bytes in 601 msecs (HTTP/1.1 302) 8 headers in 525 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 38/70] 127.0.0.1 () {44 vars in 1216 bytes} [Fri Dec  7 11:11:44 2018] GET /admin/blog/banner/ => generated 4605 bytes in 76 msecs (HTTP/1.1 200) 8 headers in 465 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 39/71] 127.0.0.1 () {42 vars in 866 bytes} [Fri Dec  7 11:11:44 2018] GET /admin/jsi18n/ => generated 7682 bytes in 9 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 25/72] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:11:44 2018] GET /favicon.ico => generated 5999 bytes in 8 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 26/73] 127.0.0.1 () {42 vars in 893 bytes} [Fri Dec  7 11:11:52 2018] GET /index/ => generated 19709 bytes in 73 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 40/74] 127.0.0.1 () {42 vars in 893 bytes} [Fri Dec  7 11:12:05 2018] GET /admin/ => generated 7865 bytes in 37 msecs (HTTP/1.1 200) 6 headers in 227 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 41/75] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:12:05 2018] GET /favicon.ico => generated 5999 bytes in 7 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 27/76] 127.0.0.1 () {44 vars in 959 bytes} [Fri Dec  7 11:12:06 2018] GET /admin/blog/banner/ => generated 4432 bytes in 32 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 28/77] 127.0.0.1 () {42 vars in 866 bytes} [Fri Dec  7 11:12:06 2018] GET /admin/jsi18n/ => generated 7682 bytes in 11 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 42/78] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:12:06 2018] GET /favicon.ico => generated 5999 bytes in 9 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 43/79] 127.0.0.1 () {44 vars in 989 bytes} [Fri Dec  7 11:12:07 2018] GET /admin/blog/banner/5/change/ => generated 6446 bytes in 39 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 44/80] 127.0.0.1 () {42 vars in 875 bytes} [Fri Dec  7 11:12:07 2018] GET /admin/jsi18n/ => generated 7682 bytes in 8 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 29/81] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:12:08 2018] GET /favicon.ico => generated 5999 bytes in 6 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 45/82] 127.0.0.1 () {48 vars in 1225 bytes} [Fri Dec  7 11:12:28 2018] POST /admin/blog/banner/5/change/ => generated 0 bytes in 40 msecs (HTTP/1.1 302) 8 headers in 525 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 30/83] 127.0.0.1 () {44 vars in 1216 bytes} [Fri Dec  7 11:12:28 2018] GET /admin/blog/banner/ => generated 4605 bytes in 33 msecs (HTTP/1.1 200) 8 headers in 465 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 46/84] 127.0.0.1 () {42 vars in 866 bytes} [Fri Dec  7 11:12:28 2018] GET /admin/jsi18n/ => generated 7682 bytes in 7 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 47/85] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:12:28 2018] GET /favicon.ico => generated 5999 bytes in 6 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 1)
+[pid: 17813|app: 0|req: 7/86] 127.0.0.1 () {42 vars in 893 bytes} [Fri Dec  7 11:12:45 2018] GET /index/ => generated 19702 bytes in 68 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 0)
+[pid: 17813|app: 0|req: 8/87] 127.0.0.1 () {44 vars in 989 bytes} [Fri Dec  7 11:13:26 2018] GET /admin/blog/banner/5/change/ => generated 6432 bytes in 111 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 48/88] 127.0.0.1 () {42 vars in 875 bytes} [Fri Dec  7 11:13:27 2018] GET /admin/jsi18n/ => generated 7682 bytes in 18 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 49/89] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:13:27 2018] GET /favicon.ico => generated 5999 bytes in 8 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 31/90] 127.0.0.1 () {48 vars in 1225 bytes} [Fri Dec  7 11:13:38 2018] POST /admin/blog/banner/5/change/ => generated 0 bytes in 29 msecs (HTTP/1.1 302) 8 headers in 512 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 32/91] 127.0.0.1 () {44 vars in 1203 bytes} [Fri Dec  7 11:13:38 2018] GET /admin/blog/banner/ => generated 4595 bytes in 45 msecs (HTTP/1.1 200) 8 headers in 465 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 50/92] 127.0.0.1 () {42 vars in 866 bytes} [Fri Dec  7 11:13:38 2018] GET /admin/jsi18n/ => generated 7682 bytes in 9 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 51/93] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:13:38 2018] GET /favicon.ico => generated 5999 bytes in 9 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 33/94] 127.0.0.1 () {44 vars in 924 bytes} [Fri Dec  7 11:13:40 2018] GET /index/ => generated 19699 bytes in 69 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 34/95] 127.0.0.1 () {42 vars in 893 bytes} [Fri Dec  7 11:15:06 2018] GET /admin/ => generated 7828 bytes in 50 msecs (HTTP/1.1 200) 6 headers in 227 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 52/96] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:15:06 2018] GET /favicon.ico => generated 5999 bytes in 6 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 53/97] 127.0.0.1 () {44 vars in 959 bytes} [Fri Dec  7 11:15:19 2018] GET /admin/blog/banner/ => generated 4427 bytes in 20 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 54/98] 127.0.0.1 () {42 vars in 866 bytes} [Fri Dec  7 11:15:19 2018] GET /admin/jsi18n/ => generated 7682 bytes in 8 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 35/99] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:15:20 2018] GET /favicon.ico => generated 5999 bytes in 6 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 36/100] 127.0.0.1 () {44 vars in 989 bytes} [Fri Dec  7 11:15:21 2018] GET /admin/blog/banner/3/change/ => generated 6426 bytes in 49 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 55/101] 127.0.0.1 () {42 vars in 875 bytes} [Fri Dec  7 11:15:22 2018] GET /admin/jsi18n/ => generated 7682 bytes in 9 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 56/102] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:15:22 2018] GET /favicon.ico => generated 5999 bytes in 9 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 37/103] 127.0.0.1 () {48 vars in 1223 bytes} [Fri Dec  7 11:15:29 2018] POST /admin/blog/banner/3/change/ => generated 0 bytes in 25 msecs (HTTP/1.1 302) 8 headers in 511 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 57/104] 127.0.0.1 () {44 vars in 1202 bytes} [Fri Dec  7 11:15:29 2018] GET /admin/blog/banner/ => generated 4594 bytes in 26 msecs (HTTP/1.1 200) 8 headers in 465 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 38/105] 127.0.0.1 () {42 vars in 866 bytes} [Fri Dec  7 11:15:29 2018] GET /admin/jsi18n/ => generated 7682 bytes in 7 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 58/106] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:15:29 2018] GET /favicon.ico => generated 5999 bytes in 7 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 39/107] 127.0.0.1 () {44 vars in 989 bytes} [Fri Dec  7 11:15:30 2018] GET /admin/blog/banner/5/change/ => generated 6436 bytes in 55 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 59/108] 127.0.0.1 () {42 vars in 875 bytes} [Fri Dec  7 11:15:30 2018] GET /admin/jsi18n/ => generated 7682 bytes in 13 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 40/109] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:15:31 2018] GET /favicon.ico => generated 5999 bytes in 10 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 60/110] 127.0.0.1 () {48 vars in 1227 bytes} [Fri Dec  7 11:15:36 2018] POST /admin/blog/banner/5/change/ => generated 0 bytes in 33 msecs (HTTP/1.1 302) 8 headers in 512 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 61/111] 127.0.0.1 () {44 vars in 1203 bytes} [Fri Dec  7 11:15:36 2018] GET /admin/blog/banner/ => generated 4595 bytes in 33 msecs (HTTP/1.1 200) 8 headers in 465 bytes (1 switches on core 1)
+[pid: 17810|app: 0|req: 62/112] 127.0.0.1 () {42 vars in 866 bytes} [Fri Dec  7 11:15:36 2018] GET /admin/jsi18n/ => generated 7682 bytes in 8 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 17811|app: 0|req: 41/113] 127.0.0.1 () {40 vars in 868 bytes} [Fri Dec  7 11:15:36 2018] GET /favicon.ico => generated 5999 bytes in 7 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 17810|app: 0|req: 63/114] 127.0.0.1 () {42 vars in 893 bytes} [Fri Dec  7 11:15:42 2018] GET /index/ => generated 19699 bytes in 69 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 1)
+[pid: 17811|app: 0|req: 42/115] 127.0.0.1 () {44 vars in 924 bytes} [Fri Dec  7 11:17:23 2018] GET /index/ => generated 19699 bytes in 86 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 1)
+*** Starting uWSGI 2.0.17.1 (64bit) on [Fri Dec  7 12:38:20 2018] ***
+compiled with version: 5.4.0 20160609 on 06 December 2018 05:49:17
+os: Linux-4.15.0-42-generic #45~16.04.1-Ubuntu SMP Mon Nov 19 13:02:27 UTC 2018
+nodename: lijun
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/lijun/桌面/1807-project/MzBlog
+writing pidfile to uwsgi.pid
+detected binary path: /home/lijun/.virtualenvs/1807_blog/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/lijun/桌面/1807-project/MzBlog
+your processes number limit is 15547
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8000 fd 3
+Python version: 3.5.2 (default, Nov 12 2018, 13:43:14)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/lijun/.virtualenvs/1807_blog
+Python main interpreter initialized at 0x1d44200
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x1d44200 pid: 25862 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 25862)
+spawned uWSGI worker 1 (pid: 25865, cores: 2)
+spawned uWSGI worker 2 (pid: 25866, cores: 2)
+spawned uWSGI worker 3 (pid: 25867, cores: 2)
+spawned uWSGI worker 4 (pid: 25868, cores: 2)
+[pid: 25866|app: 0|req: 1/1] 127.0.0.1 () {44 vars in 909 bytes} [Fri Dec  7 12:38:35 2018] GET / => generated 19699 bytes in 250 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 0)
+[pid: 25866|app: 0|req: 2/2] 127.0.0.1 () {44 vars in 935 bytes} [Fri Dec  7 13:51:32 2018] GET /user/logout/ => generated 0 bytes in 41 msecs (HTTP/1.1 302) 5 headers in 214 bytes (1 switches on core 1)
+[pid: 25865|app: 0|req: 1/3] 127.0.0.1 () {44 vars in 879 bytes} [Fri Dec  7 13:51:32 2018] GET /index/ => generated 19756 bytes in 260 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 0)
+[pid: 25865|app: 0|req: 2/4] 127.0.0.1 () {44 vars in 891 bytes} [Fri Dec  7 13:51:32 2018] GET /user/logout/ => generated 0 bytes in 15 msecs (HTTP/1.1 302) 5 headers in 143 bytes (1 switches on core 1)
+[pid: 25865|app: 0|req: 3/5] 127.0.0.1 () {44 vars in 879 bytes} [Fri Dec  7 13:51:33 2018] GET /index/ => generated 19756 bytes in 84 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 0)
+[pid: 25865|app: 0|req: 4/6] 127.0.0.1 () {44 vars in 887 bytes} [Fri Dec  7 13:51:35 2018] GET /blog/5/ => generated 18697 bytes in 61 msecs (HTTP/1.1 200) 5 headers in 279 bytes (1 switches on core 1)
+[pid: 25868|app: 0|req: 1/7] 127.0.0.1 () {42 vars in 846 bytes} [Fri Dec  7 13:52:34 2018] GET /admin/ => generated 0 bytes in 111 msecs (HTTP/1.1 302) 7 headers in 265 bytes (1 switches on core 0)
+[pid: 25868|app: 0|req: 2/8] 127.0.0.1 () {42 vars in 883 bytes} [Fri Dec  7 13:52:34 2018] GET /admin/login/?next=/admin/ => generated 1652 bytes in 113 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 1)
+[pid: 25865|app: 0|req: 5/9] 127.0.0.1 () {40 vars in 821 bytes} [Fri Dec  7 13:52:35 2018] GET /favicon.ico => generated 6056 bytes in 8 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 25865|app: 0|req: 6/10] 127.0.0.1 () {48 vars in 1058 bytes} [Fri Dec  7 13:52:52 2018] POST /admin/login/?next=/admin/ => generated 0 bytes in 419 msecs (HTTP/1.1 302) 9 headers in 531 bytes (1 switches on core 1)
+[pid: 25865|app: 0|req: 7/11] 127.0.0.1 () {44 vars in 948 bytes} [Fri Dec  7 13:52:53 2018] GET /admin/ => generated 7850 bytes in 83 msecs (HTTP/1.1 200) 6 headers in 227 bytes (1 switches on core 0)
+[pid: 25865|app: 0|req: 8/12] 127.0.0.1 () {40 vars in 865 bytes} [Fri Dec  7 13:52:53 2018] GET /favicon.ico => generated 5999 bytes in 7 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 1)
+[pid: 25868|app: 0|req: 3/13] 127.0.0.1 () {44 vars in 955 bytes} [Fri Dec  7 13:52:55 2018] GET /admin/blog/comment/ => generated 4401 bytes in 105 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 0)
+[pid: 25868|app: 0|req: 4/14] 127.0.0.1 () {42 vars in 861 bytes} [Fri Dec  7 13:52:55 2018] GET /admin/jsi18n/ => generated 7682 bytes in 19 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 1)
+[pid: 25865|app: 0|req: 9/15] 127.0.0.1 () {40 vars in 865 bytes} [Fri Dec  7 13:52:55 2018] GET /favicon.ico => generated 5999 bytes in 9 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 25865|app: 0|req: 10/16] 127.0.0.1 () {44 vars in 986 bytes} [Fri Dec  7 13:52:58 2018] GET /admin/blog/comment/2/change/ => generated 6557 bytes in 85 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 1)
+[pid: 25865|app: 0|req: 11/17] 127.0.0.1 () {42 vars in 870 bytes} [Fri Dec  7 13:52:58 2018] GET /admin/jsi18n/ => generated 7682 bytes in 8 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 25868|app: 0|req: 5/18] 127.0.0.1 () {40 vars in 865 bytes} [Fri Dec  7 13:52:58 2018] GET /favicon.ico => generated 5999 bytes in 11 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 25865|app: 0|req: 12/19] 127.0.0.1 () {44 vars in 995 bytes} [Fri Dec  7 13:53:00 2018] GET /admin/blog/comment/2/delete/ => generated 2979 bytes in 44 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 1)
+[pid: 25868|app: 0|req: 6/20] 127.0.0.1 () {40 vars in 865 bytes} [Fri Dec  7 13:53:00 2018] GET /favicon.ico => generated 5999 bytes in 7 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 1)
+[pid: 25865|app: 0|req: 13/21] 127.0.0.1 () {48 vars in 1110 bytes} [Fri Dec  7 13:53:02 2018] POST /admin/blog/comment/2/delete/ => generated 0 bytes in 22 msecs (HTTP/1.1 302) 8 headers in 446 bytes (1 switches on core 0)
+[pid: 25865|app: 0|req: 14/22] 127.0.0.1 () {44 vars in 1133 bytes} [Fri Dec  7 13:53:02 2018] GET /admin/blog/comment/ => generated 4314 bytes in 65 msecs (HTTP/1.1 200) 8 headers in 465 bytes (1 switches on core 1)
+[pid: 25865|app: 0|req: 15/23] 127.0.0.1 () {42 vars in 861 bytes} [Fri Dec  7 13:53:02 2018] GET /admin/jsi18n/ => generated 7682 bytes in 7 msecs (HTTP/1.1 200) 4 headers in 115 bytes (1 switches on core 0)
+[pid: 25868|app: 0|req: 7/24] 127.0.0.1 () {40 vars in 865 bytes} [Fri Dec  7 13:53:02 2018] GET /favicon.ico => generated 5999 bytes in 9 msecs (HTTP/1.1 404) 4 headers in 131 bytes (1 switches on core 0)
+[pid: 25868|app: 0|req: 8/25] 127.0.0.1 () {46 vars in 954 bytes} [Fri Dec  7 13:53:06 2018] GET /index/ => generated 19052 bytes in 68 msecs (HTTP/1.1 200) 4 headers in 125 bytes (1 switches on core 1)
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+...brutally killing workers...
+Gracefully killing worker 1 (pid: 25865)...
+Gracefully killing worker 2 (pid: 25866)...
+Gracefully killing worker 3 (pid: 25867)...
+Gracefully killing worker 4 (pid: 25868)...
+worker 1 buried after 2 seconds
+worker 2 buried after 2 seconds
+worker 3 buried after 2 seconds
+worker 4 buried after 2 seconds
+binary reloading uWSGI...
+chdir() to /home/lijun/桌面/1807-project/MzBlog
+closing all non-uwsgi socket fds > 2 (max_fd = 1048576)...
+found fd 3 mapped to socket 0 (127.0.0.1:8000)
+running /home/lijun/.virtualenvs/1807_blog/bin/uwsgi
+[uWSGI] getting INI configuration from uwsgi.ini
+*** Starting uWSGI 2.0.17.1 (64bit) on [Fri Dec  7 16:55:33 2018] ***
+compiled with version: 5.4.0 20160609 on 06 December 2018 05:49:17
+os: Linux-4.15.0-42-generic #45~16.04.1-Ubuntu SMP Mon Nov 19 13:02:27 UTC 2018
+nodename: lijun
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/lijun/桌面/1807-project/MzBlog
+detected binary path: /home/lijun/.virtualenvs/1807_blog/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/lijun/桌面/1807-project/MzBlog
+your processes number limit is 15547
+your memory page size is 4096 bytes
+detected max file descriptor number: 1048576
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited INET address 127.0.0.1:8000 fd 3
+Python version: 3.5.2 (default, Nov 12 2018, 13:43:14)  [GCC 5.4.0 20160609]
+Set PythonHome to /home/lijun/.virtualenvs/1807_blog
+Python main interpreter initialized at 0x1c02c00
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 8 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x1c02c00 pid: 25862 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 25862)
+spawned uWSGI worker 1 (pid: 5070, cores: 2)
+spawned uWSGI worker 2 (pid: 5071, cores: 2)
+spawned uWSGI worker 3 (pid: 5072, cores: 2)
+spawned uWSGI worker 4 (pid: 5073, cores: 2)
